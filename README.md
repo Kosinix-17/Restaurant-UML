@@ -7,7 +7,8 @@ Diagramme use case validé:
 
 Class Diagram validé:
 
-<img width="598" height="458" alt="image" src="https://github.com/user-attachments/assets/45aa7aed-0cbd-426d-9e74-e36b1fad3659" />
+<img width="562" height="467" alt="image" src="https://github.com/user-attachments/assets/ed82e199-cc23-4a15-a466-861ad868080a" />
+
 
 
 
